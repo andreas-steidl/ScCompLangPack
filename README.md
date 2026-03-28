@@ -11,6 +11,7 @@ Additional changes kindly provided by [MrKraken](https://github.com/MrKraken) an
 - Contracts that award blueprints have the potential pool added to the end of the description
 - Warning prefixes for illegal substances
 - Hephaestanite shortened to Heph [#12](https://github.com/ExoAE/ScCompLangPack/issues/12)
+- Instability:/Resistance: shortened to Instab.:/Resist.: due to overlapping issues 
 
 
 ---
