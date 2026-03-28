@@ -29,7 +29,7 @@ Download the latest version here:
 4. Launch the game.
 
 If you have the [SC Launch Configurator](https://www.luftwerft.com/?lang=en) you can just paste this link in the english language config
-https://raw.githubusercontent.com/ExoAE/ScCompLangPack/refs/heads/main/ScCompLangPack/data/Localization/english/global.ini
+`https://raw.githubusercontent.com/ExoAE/ScCompLangPack/refs/heads/main/ScCompLangPack/data/Localization/english/global.ini`
 
 ---
 ## ⚙️ScCompLangPackRemix [here](https://github.com/BeltaKoda/ScCompLangPackRemix)
