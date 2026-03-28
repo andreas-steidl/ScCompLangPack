@@ -27,6 +27,9 @@ Download the latest version here:
 3. Copy the `data` folder and the (`user.cfg`) file into your game’s LIVE folder root.
 4. Launch the game.
 
+If you have the [SC Launch Configurator](https://www.luftwerft.com/?lang=en) you can just paste this link in the english language config
+https://github.com/ExoAE/ScCompLangPack/blob/main/ScCompLangPack/data/Localization/english/global.ini
+
 ---
 ## ⚙️ScCompLangPackRemix [here](https://github.com/BeltaKoda/ScCompLangPackRemix)
 
