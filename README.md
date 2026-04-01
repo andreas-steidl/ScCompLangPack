@@ -68,7 +68,7 @@ If you’d like to support me, you can use my Star Citizen referral code when wh
 
 STAR-4JD7-RZT4
 
-Other Ways:
+Or here:
 
 [☕ Ko-fi](https://ko-fi.com/exoae)
 
